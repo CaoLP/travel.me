@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hoc</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="welcome">Welcome</string>
+    <string name="login_title">Đăng nhập</string>
+    <string name="label_username">Tên đăng nhập</string>
+    <string name="label_password">Mật khẩu</string>
+    <string name="btn_lognin">Đăng nhập</string>
+</resources>
