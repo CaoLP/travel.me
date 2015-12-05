@@ -10,6 +10,7 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="app.kao.travel.MainActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
             android:label="@string/title_activity_main" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
